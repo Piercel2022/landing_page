@@ -5,4 +5,3 @@ Demonstrated skills:
 - CSS
     - Flexbox
 
-Live Demo: https://pablomattot.github.io/landing-page/
